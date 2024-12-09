@@ -1,4 +1,4 @@
-﻿@* @page "/admin/product-types"
+﻿@page "/admin/product-types"
 @inject IProductTypeService ProductTypeService
 @implements IDisposable
 @attribute [Authorize(Roles = "Admin")]
@@ -73,4 +73,4 @@
             await ProductTypeService.UpdateProductType(editingProductType);
         editingProductType = new ProductType();
     }
-} *@
+}

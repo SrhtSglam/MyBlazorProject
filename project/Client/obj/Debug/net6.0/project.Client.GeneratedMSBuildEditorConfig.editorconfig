@@ -94,14 +94,6 @@ build_metadata.AdditionalFiles.CssScope = b-o3cammc5ip
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-mysn1lpeih
 
-[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Pages/Categories.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllcy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-zdq4m2hoet
-
-[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Pages/EditProduct.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFByb2R1Y3QucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-kqtuqtfmlh
-
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Pages/OrderDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-i1fkslayse
@@ -113,14 +105,6 @@ build_metadata.AdditionalFiles.CssScope = b-eqxdlmvvyf
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Pages/ProductDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-c8vze21v6j
-
-[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Pages/Products.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-czf5dc7i57
-
-[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Pages/ProductTypes.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFR5cGVzLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-8kg86mx5vu
 
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/AdminMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkbWluTWVudS5yYXpvcg==

@@ -1,4 +1,4 @@
-﻿@* @page "/admin/categories"
+﻿@page "/admin/categories"
 @inject ICategoryService CategoryService
 @attribute [Authorize(Roles = "Admin")]
 @implements IDisposable
@@ -109,4 +109,4 @@
     {
         await CategoryService.DeleteCategory(id);
     }
-} *@
+}
