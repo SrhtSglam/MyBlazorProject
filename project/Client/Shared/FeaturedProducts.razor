@@ -18,11 +18,11 @@ else
                         <a href="product/@product.Id">
                             @if (!string.IsNullOrEmpty(product.ImageUrl))
                             {
-                                <img src="@product.ImageUrl">
+                                <img src="images/@product.ImageUrl">
                             }
                             else if (product.Images.Count > 0)
                             {
-                                <img src="@product.Images[0].Data" />
+                                <img src="images/@product.Images[0].Data" />
                             }
                         </a>
                     </div>
