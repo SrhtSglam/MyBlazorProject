@@ -1,60 +1,35 @@
-global using project.Shared;
-global using Microsoft.EntityFrameworkCore;
-global using project.Server.Data;
-global using project.Server.Services.ProductService;
-global using project.Server.Services.CategoryService;
-global using project.Server.Services.CartService;
-global using project.Server.Services.AuthService;
-global using project.Server.Services.OrderService;
-global using project.Server.Services.PaymentService;
-global using project.Server.Services.AddressService;
-global using project.Server.Services.ProductTypeService;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
+using project.Server.Data;
+using project.Server.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<DataContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-});
+// Add services to the container.
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlite(connectionString));
+builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<ApplicationDbContext>();
+
+builder.Services.AddIdentityServer()
+    .AddApiAuthorization<ApplicationUser, ApplicationDbContext>();
+
+builder.Services.AddAuthentication()
+    .AddIdentityServerJwt();
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-builder.Services.AddScoped<IProductService, ProductService>();
-builder.Services.AddScoped<ICategoryService, CategoryService>();
-builder.Services.AddScoped<ICartService, CartService>();
-builder.Services.AddScoped<IAuthService, AuthService>();
-builder.Services.AddScoped<IOrderService, OrderService>();
-builder.Services.AddScoped<IPaymentService, PaymentService>();
-builder.Services.AddScoped<IAddressService, AddressService>();
-builder.Services.AddScoped<IProductTypeService, ProductTypeService>();
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-    .AddJwtBearer(options =>
-    {
-        options.TokenValidationParameters = new TokenValidationParameters
-        {
-            ValidateIssuerSigningKey = true,
-            IssuerSigningKey =
-                new SymmetricSecurityKey(System.Text.Encoding.UTF8
-                .GetBytes(builder.Configuration.GetSection("AppSettings:Token").Value)),
-            ValidateIssuer = false,
-            ValidateAudience = false
-        };
-    });
-builder.Services.AddHttpContextAccessor();
-
 var app = builder.Build();
-
-app.UseSwaggerUI();
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.UseMigrationsEndPoint();
     app.UseWebAssemblyDebugging();
 }
 else
@@ -64,7 +39,6 @@ else
     app.UseHsts();
 }
 
-app.UseSwagger();
 app.UseHttpsRedirection();
 
 app.UseBlazorFrameworkFiles();
@@ -72,8 +46,10 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseIdentityServer();
 app.UseAuthentication();
 app.UseAuthorization();
+
 
 app.MapRazorPages();
 app.MapControllers();
