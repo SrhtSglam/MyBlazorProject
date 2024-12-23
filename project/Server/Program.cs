@@ -3,13 +3,25 @@ using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.EntityFrameworkCore;
 using project.Server.Data;
 using project.Server.Models;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlite(connectionString));
+var connectionString = builder.Configuration.GetConnectionString("ConnectionNo");
+if(connectionString != "0")
+{
+    if(connectionString == "1"){
+        connectionString = builder.Configuration.GetConnectionString("ServerConnection");
+        builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            options.UseSqlServer(connectionString));
+    }
+    else if(connectionString == "2"){
+        connectionString = builder.Configuration.GetConnectionString("LocalConnection");
+        builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            options.UseSqlite(connectionString));
+    }
+}
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)

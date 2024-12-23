@@ -1,18 +1,26 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
+<div class="container-fluid vh-100 d-flex flex-column">
+    <div class="row flex-grow-1">
+        <project.Client.Shared.IMPORTED.ClientLayout />
+        
+        <!-- Sidebar -->
+        <nav class="col-12 col-md-3 col-lg-2 bg-dark text-white p-3 d-flex flex-column">
+            <h2 class="fs-5 text-center mb-4">Menu</h2>
+            <NavMenu />
+        </nav>
+
+        <!-- Main Content -->
+        <main class="col p-0">
+            <header class="bg-light border-bottom py-2 px-4 d-flex justify-content-between align-items-center">
+                <span class="fw-bold">App Header</span>
+                <TopMenu />
+            </header>
+
+            <!-- Body Content -->
+            <section class="content p-4">
+                @Body
+            </section>
+        </main>
     </div>
-
-    <main>
-        <div class="top-row px-4 auth">
-            <LoginDisplay />
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
-        </div>
-
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
 </div>

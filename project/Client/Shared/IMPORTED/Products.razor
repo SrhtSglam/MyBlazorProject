@@ -1,0 +1,104 @@
+<div class="container my-4">
+    <h2 class="text-center mb-4">Featured Categories</h2>
+    <div class="row g-3">
+        <!-- First Row -->
+        @for (int i = 0; i < 10; i++)
+        {
+            if (i % 6 == 0)
+            {
+                <div class="row g-3 mt-4">
+                    @for (int j = 0; j < 2; j++)
+                    {
+                        <!-- Banner Section -->
+                        <div class="col-md-6">
+                            <div class="card bg-light">
+                                <div class="row g-0 align-items-center">
+                                    <div class="col-6">
+                                        <img src="images/slider/slide-1.jpg" class="img-fluid rounded-start" alt="Fruits & Vegetables">
+                                    </div>
+                                    <div class="col-6">
+                                        <div class="card-body text-center">
+                                            <h5 class="card-title">Fruits & Vegetables</h5>
+                                            <p class="card-text">Get Up to 30% Off</p>
+                                            <a href="#" class="btn btn-dark">Shop Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="card text-center p-2">
+                    <img src="images/products/product-img-1.jpg" class="card-img-top img-fluid" alt="Dairy, Bread & Eggs">
+                    <div class="card-body">
+                        <p class="card-text">Dairy, Bread & Eggs</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+@* <section class="mb-lg-10 mt-lg-14 my-8">
+    <div class="container">
+        <div class="row">
+            <div class="mb-6 col-12">
+                <h3 class="mb-0">Featured Categories</h3>
+            </div>
+        </div>
+        <div class="container">
+            <!-- Öne Çıkan Ürün -->
+            <div class="featured-product mb-4">
+                <a class="text-decoration-none text-inherit card-link" href="shop/featured-product.html">
+                    <div class="card-product card">
+                        <div class="row g-0 align-items-center">
+                            <div class="col-md-4">
+                                <img src="images/category/category-baby-care.jpg" alt="Featured Product"
+                                    class="img-fluid rounded-start">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Featured Product</h5>
+                                    <p class="card-text">This is a description of the featured product. It's highlighted
+                                        for promotion.</p>
+                                    <a href="shop/featured-product.html" class="btn btn-primary">View Product</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- 3 Parça Ürün Listesi -->
+            <div class="row">
+                @for (int i = 0; i < 12; i++)
+                {
+                    if (i % 2 == 0)
+                    {
+
+                    }
+                    <div class="col-md-2 mb-2">
+                        <a class="text-decoration-none text-inherit card-link" href="shop/product-">
+                            <div class="card-product card h-100">
+                                <img src="images/category/category-baby-care.jpg" alt="Product Image"
+                                    class="card-img-top img-fluid">
+                                <div class="card-body text-center">
+                                    <h6 class="card-title text-truncate">Product @i</h6>
+                                    <p class="card-text">$@((i + 1) * 10).00</p>
+                                    <a href="shop/product-" class="btn btn-outline-primary">Buy Now</a>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+        <span class="slick-next"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="9 18 15 12 9 6"></polyline>
+            </svg></span>
+    </div>
+</section> *@
