@@ -9,10 +9,10 @@ using project.Server.Data;
 
 #nullable disable
 
-namespace project.Server.Data.Migrations
+namespace project.Server.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241217074529_InitialCreate")]
+    [Migration("20241223130024_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
