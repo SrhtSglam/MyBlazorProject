@@ -17,6 +17,7 @@ builder.Services.AddHttpClient("AuthorizedAPI", client => client.BaseAddress = n
 builder.Services.AddHttpClient("PublicAPI", client => client.BaseAddress = new Uri(builder.HostEnvironment.BaseAddress));
 
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
 
 // Supply HttpClient instances that include access tokens when making requests to the server project
 builder.Services.AddScoped(sp => sp.GetRequiredService<IHttpClientFactory>().CreateClient("project.Server"));

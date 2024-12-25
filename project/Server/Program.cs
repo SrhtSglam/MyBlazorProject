@@ -27,6 +27,7 @@ if(connectionString != "0")
 }
 
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 

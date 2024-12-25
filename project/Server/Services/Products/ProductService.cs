@@ -7,7 +7,6 @@ namespace project.Server.Services
 {
     public class ProductService : IProductService
     {
-        private readonly IHttpClientFactory _factory;
         private readonly MainContext _context;
 
         public ProductService(MainContext context)
