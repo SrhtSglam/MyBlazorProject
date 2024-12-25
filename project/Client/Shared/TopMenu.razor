@@ -1,2 +1,39 @@
-﻿<LoginDisplay />
-<a href="google.com">About</a>
+﻿<style>
+    .myAllDepartment {
+        border-radius: 8px;
+    }
+</style>
+
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <a class="navbar-brand d-lg-none" href="index.html">
+            <img src="images/logo/freshcart-logo.svg" alt="Fresh Cart">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <a class="btn btn-success d-none d-lg-inline-block myAllDepartment" href="#"><i class="iconify"
+                    data-icon="ri:apps-line" /> All Departments</a>
+            <ul class="navbar-nav me-auto">
+                @for (int i = 0; i < 5; i++)
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Home</a>
+                    </li>
+                }
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Mega Menu
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Category 1</a></li>
+                        <li><a class="dropdown-item" href="#">Category 2</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <LoginDisplay />
+</nav>

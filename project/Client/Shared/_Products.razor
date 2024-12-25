@@ -1,0 +1,70 @@
+@using project.Client.Services
+@using project.Shared
+@inject IProductService _product
+
+@if (product == null)
+{
+    <p><em>Loading...</em></p>
+}0
+else
+{
+    <div class="container my-4">
+        <h2 class="text-center mb-4">Featured Categories</h2>
+        <div class="row g-3">
+            <!-- First Row -->
+            @for (int i = 0; i < product.Count; i++)
+            {
+                if (i % 6 == 0)
+                {
+                    <div class="row g-3 mt-4">
+                        @for (int j = 0; j < 2; j++)
+                        {
+                            <!-- Banner Section -->
+                            <div class="col-md-6">
+                                <div class="card bg-light">
+                                    <div class="row g-0 align-items-center">
+                                        <div class="col-6">
+                                            <img src="images/slider/slide-1.jpg" class="img-fluid rounded-start"
+                                                alt="Fruits & Vegetables">
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="card-body text-center">
+                                                <h5 class="card-title">Fruits & Vegetables</h5>
+                                                <p class="card-text">Get Up to 30% Off</p>
+                                                <a href="#" class="btn btn-dark">Shop Now</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="card text-center p-2">
+                        <img src="images/products/@product[i].ImageUrl" class="card-img-top img-fluid"
+                            alt="Dairy, Bread & Eggs">
+                        <div class="card-body">
+                            <p class="card-text">@product[i].Name</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+}
+@code {
+    private List<Product> product;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            product = await _product.GetProducts();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error fetching product list: {ex.Message}");
+        }
+    }
+}

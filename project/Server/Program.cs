@@ -1,9 +1,8 @@
 using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.EntityFrameworkCore;
 using project.Server.Data;
 using project.Server.Models;
-using Microsoft.AspNetCore.Identity;
+using project.Server.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,13 +14,20 @@ if(connectionString != "0")
         connectionString = builder.Configuration.GetConnectionString("ServerConnection");
         builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(connectionString));
+        builder.Services.AddDbContext<MainContext>(options =>
+            options.UseSqlServer(connectionString));
     }
     else if(connectionString == "2"){
         connectionString = builder.Configuration.GetConnectionString("LocalConnection");
         builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlite(connectionString));
+        builder.Services.AddDbContext<MainContext>(options =>
+            options.UseSqlServer(connectionString));
     }
 }
+
+builder.Services.AddScoped<IProductService, ProductService>();
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)

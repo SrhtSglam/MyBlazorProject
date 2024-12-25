@@ -829,9 +829,9 @@ C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0
 C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\z9qzcr7n26.gz
 C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\umc1v9nd9b.gz
 C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\69406f6vpc.gz
-C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\exxbljpao3.gz
-C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\y5s4nq4t1p.gz
 C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\8csl8c7ncb.gz
 C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\6hbakarfag.gz
 C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\uji5zuu4c3.gz
 C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\project..BCDC52A4.Up2Date
+C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\exxbljpao3.gz
+C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\y5s4nq4t1p.gz

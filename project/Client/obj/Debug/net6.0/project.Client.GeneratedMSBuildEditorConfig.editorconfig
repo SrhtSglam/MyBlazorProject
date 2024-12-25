@@ -42,16 +42,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/Carousel.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElNUE9SVEVEXENhcm91c2VsLnJhem9y
+[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Pages/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/ClientLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElNUE9SVEVEXENsaWVudExheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/FeaturedCategories.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElNUE9SVEVEXEZlYXR1cmVkQ2F0ZWdvcmllcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/Icons.razor]
@@ -66,16 +62,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElNUE9SVEVEXE5hdkJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/Products.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElNUE9SVEVEXFByb2R1Y3RzLnJhem9y
+[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/Products02.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElNUE9SVEVEXFByb2R1Y3RzMDIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/SearchBar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElNUE9SVEVEXFNlYXJjaEJhci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/TopBar.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElNUE9SVEVEXFRvcEJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/LoginDisplay.razor]
@@ -98,8 +90,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/TopBar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvcEJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/TopMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvcE1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/_Carousel.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9DYXJvdXNlbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/Shared/_Products.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9Qcm9kdWN0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/stj067/Documents/GitHub/MyBlazorProject/project/Client/_Imports.razor]

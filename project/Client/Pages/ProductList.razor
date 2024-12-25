@@ -1,0 +1,51 @@
+@page "/productlist"
+@using project.Client.Services
+@using project.Shared
+@inject IProductService _product
+
+<PageTitle>Product List</PageTitle>
+
+<h1>Product List</h1>
+
+<p>This component demonstrates fetching data from the server without authentication.</p>
+
+@if (product == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Image URL</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in product)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td><img src="@item.ImageUrl" alt="Product Image" width="100" /></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Product> product;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            product = await _product.GetProducts();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error fetching product list: {ex.Message}");
+        }
+    }
+}
