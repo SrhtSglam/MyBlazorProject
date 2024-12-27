@@ -19,5 +19,11 @@ namespace project.Server.Services
             var category = _context.Categories.ToList();
             return category; 
         }
+
+        public List<SubCategory> GetAllSubCategories()
+        {
+            var subcategory = _context.SubCategories.ToList();
+            return subcategory; 
+        }
     }
 }

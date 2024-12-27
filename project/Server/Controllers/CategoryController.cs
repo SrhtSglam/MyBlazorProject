@@ -23,6 +23,13 @@ namespace project.Server.Controllers{
             var categories =  _categoryService.GetAll();
             return categories;
         }
+
+        [HttpGet("GetSubCategories")]
+        public List<SubCategory> GetSubCategories()
+        {
+            var subcategories =  _categoryService.GetAllSubCategories();
+            return subcategories;
+        }
     }
 }
 

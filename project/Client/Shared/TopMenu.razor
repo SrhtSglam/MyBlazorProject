@@ -36,8 +36,9 @@
                             Mega Menu
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Category 1</a></li>
-                            <li><a class="dropdown-item" href="#">Category 2</a></li>
+                            @foreach(var items in subcategory){
+                                <li><a class="dropdown-item" href="#">@items.Name</a></li>
+                            }
                         </ul>
                     </li>
                 </ul>
@@ -50,10 +51,12 @@
 
 @code{
     private List<Category> category;
+    private List<SubCategory> subcategory;
     
     protected override async Task OnInitializedAsync(){
         try{
             category = await _category.GetCategories();
+            subcategory = await _category.GetSubCategories();
         }
         catch(Exception ex){
             Console.WriteLine($"Error fetching product list: {ex.Message}");

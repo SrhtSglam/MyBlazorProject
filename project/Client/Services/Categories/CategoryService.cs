@@ -18,5 +18,12 @@ namespace project.Client.Services
             var category = await client.GetFromJsonAsync<List<Category>>("Category/GetCategories");
             return category; 
         }
+        
+        public async Task<List<SubCategory>> GetSubCategories()
+        {
+            var client = _factory.CreateClient("PublicAPI");
+            var subcategory = await client.GetFromJsonAsync<List<SubCategory>>("Category/GetSubCategories");
+            return subcategory; 
+        }
     }
 }

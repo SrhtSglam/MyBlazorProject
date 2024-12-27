@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\appbutton\\appstore-btn.svg",
+      "PackagePath": "staticwebassets\\images\\appbutton\\appstore-btn.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\appbutton\\googleplay-btn.svg",
+      "PackagePath": "staticwebassets\\images\\appbutton\\googleplay-btn.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-12.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\avatar\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\banner\\assortment-citrus-fruits.png",
+      "PackagePath": "staticwebassets\\images\\banner\\assortment-citrus-fruits.png"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\banner\\banner-deal.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-deal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\banner\\grocery-banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\grocery-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\banner\\grocery-banner.png",
+      "PackagePath": "staticwebassets\\images\\banner\\grocery-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-atta-rice-dal.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-atta-rice-dal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-baby-care.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-baby-care.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-bakery-biscuits.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-bakery-biscuits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-chicken-meat-fish.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-chicken-meat-fish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-cleaning-essentials.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-cleaning-essentials.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-cold-drinks-juices.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-cold-drinks-juices.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-dairy-bread-eggs.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-dairy-bread-eggs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-fruits-vegetables.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-fruits-vegetables.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-instant-food.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-instant-food.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-pet-care.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-pet-care.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-snack-munchies.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-snack-munchies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\category\\category-tea-coffee-drinks.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-tea-coffee-drinks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\baby-food.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\baby-food.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\bakery.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\bakery.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\dairy.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\dairy.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\english.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\english.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\english.svg.readme",
+      "PackagePath": "staticwebassets\\images\\icons\\english.svg.readme"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\fish.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\fish.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\fruit.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\fruit.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\snacks.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\snacks.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\toiletries.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\toiletries.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\icons\\wine.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\wine.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\logo\\freshcart-logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\freshcart-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\payment\\amazonpay.svg",
+      "PackagePath": "staticwebassets\\images\\payment\\amazonpay.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\payment\\american-express.svg",
+      "PackagePath": "staticwebassets\\images\\payment\\american-express.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\payment\\mastercard.svg",
+      "PackagePath": "staticwebassets\\images\\payment\\mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\payment\\paypal.svg",
+      "PackagePath": "staticwebassets\\images\\payment\\paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\payment\\visa.svg",
+      "PackagePath": "staticwebassets\\images\\payment\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-13.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-single-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-single-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-single-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-single-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-single-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-single-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-single-img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-single-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\slider\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\slider\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\slider\\slider-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\stores-logo\\stores-logo-1.svg",
+      "PackagePath": "staticwebassets\\images\\stores-logo\\stores-logo-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\stores-logo\\stores-logo-2.svg",
+      "PackagePath": "staticwebassets\\images\\stores-logo\\stores-logo-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\stores-logo\\stores-logo-3.svg",
+      "PackagePath": "staticwebassets\\images\\stores-logo\\stores-logo-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\stores-logo\\stores-logo-4.svg",
+      "PackagePath": "staticwebassets\\images\\stores-logo\\stores-logo-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\stores-logo\\stores-logo-6.svg",
+      "PackagePath": "staticwebassets\\images\\stores-logo\\stores-logo-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\stores-logo\\stores-logo-7.svg",
+      "PackagePath": "staticwebassets\\images\\stores-logo\\stores-logo-7.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\stores-logo\\stores-logo-8.svg",
+      "PackagePath": "staticwebassets\\images\\stores-logo\\stores-logo-8.svg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.project.Server.props",
+      "PackagePath": "build\\project.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.project.Server.props",
+      "PackagePath": "buildMultiTargeting\\project.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.project.Server.props",
+      "PackagePath": "buildTransitive\\project.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.project.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

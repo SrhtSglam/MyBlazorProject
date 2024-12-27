@@ -185,8 +185,16 @@
       "PackagePath": "staticwebassets\\images\\payment\\visa.svg"
     },
     {
-      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\product-img-1.jpg"
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3.jpg"
     },
     {
       "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-10.jpg",
@@ -203,14 +211,6 @@
     {
       "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-13.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-img-13.jpg"
-    },
-    {
-      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-2.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\product-img-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-3.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\product-img-3.jpg"
     },
     {
       "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyBlazorProject\\project\\Server\\wwwroot\\images\\products\\product-img-4.jpg",
