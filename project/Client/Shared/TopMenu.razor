@@ -21,10 +21,10 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <a class="btn btn-success d-none d-lg-inline-block myAllDepartment" href="#"><i class="iconify"
+                <a class="btn btn-success d-none d-lg-inline-block myAllDepartment" href="/"><i class="iconify"
                         data-icon="ri:apps-line" /> All Departments</a>
                 <ul class="navbar-nav me-auto">
-                    @foreach (var item in category)
+                    @* @foreach (var item in category)
                     {
                         <li class="nav-item">
                             <a class="nav-link" href="#">@item.Name</a>
@@ -40,11 +40,30 @@
                                 <li><a class="dropdown-item" href="#">@items.Name</a></li>
                             }
                         </ul>
-                    </li>
+                    </li> *@
+                    @foreach(var item in category){
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                                @item.Name
+                            </a>
+                            <ul class="dropdown-menu">
+                                @* @if(item.ProductCategories != null){
+                                    @foreach(var items in item.ProductCategories){
+                                        <li><a class="dropdown-item" href="#">@items.SubCategory.Name</a></li>
+                                    }
+                                } *@
+                                @foreach(var items in subcategory){
+                                    <li><a class="dropdown-item" href="#">@items.Name</a></li>
+                                }
+                            </ul>
+                        </li>
+                    }
                 </ul>
             </div>
         </div>
         <LoginDisplay />
+        <_Bag />
     </nav>
 }
 

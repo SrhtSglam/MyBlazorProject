@@ -1,0 +1,46 @@
+@page "/admin/products"
+@using Microsoft.AspNetCore.Authorization
+@using project.Client.Services
+@using project.Shared
+@* @attribute [Authorize(Roles = "admin")] *@
+@attribute [Authorize]
+@inject IProductService _product
+
+<PageTitle>Dashboard</PageTitle>
+<h2>Product List</h2>
+<div class="row">
+    <div class="table-responsive col-12">
+        <table class="table table-striped table-sm">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>ImageUrl</th>
+                    <th>Add - Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if(product == null){
+                    <p><em>Loading...</em></p>
+                }
+                else{
+                    @foreach(var item in product){
+                        <tr>
+                            <td>@item.ProductId</td>
+                            <td>@item.Name</td>
+                            <td>@item.ImageUrl</td>
+                            <td><button type="button" class="btn btn-success">Edit</button> <button type="button" class="btn btn-danger">Delete</button></td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@code {
+    private List<Product> product {get; set;}
+
+    protected override async Task OnInitializedAsync(){
+        product = await _product.GetProducts();
+    }
+}

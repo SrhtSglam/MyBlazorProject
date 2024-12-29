@@ -1,4 +1,8 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
+﻿@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@inject NavigationManager Navigation
+@inject SignOutSessionStateManager SignOutManager
+
+<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="">project</a>
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
@@ -19,14 +23,42 @@
                 <span class="oi oi-plus" aria-hidden="true"></span> Counter
             </NavLink>
         </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="productlist">
-                <span class="oi oi-plus" aria-hidden="true"></span> Products
-            </NavLink>
-        </div>
+        <hr />
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="fetchdata">
                 <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            </NavLink>
+        </div>
+        <hr />
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="admin/menu">
+                <span class="iconify" data-icon="ri:apps-line" aria-hidden="true"></span> Menu
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="admin/products">
+                <span class="iconify" data-icon="material-symbols:event-list-outline" aria-hidden="true"></span> Products
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="admin/categories">
+                <span class="iconify" data-icon="material-symbols:event-list-outline" aria-hidden="true"></span> Categories
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="admin/subcategories">
+                <span class="iconify" data-icon="material-symbols:event-list-outline" aria-hidden="true"></span> Sub Categories
+            </NavLink>
+        </div>
+        <hr />
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="authentication/profile">
+                <span class="iconify" data-icon="oi:person" aria-hidden="true"></span> Profile
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="authentication/logout" @onclick="BeginSignOut">
+                <span class="iconify" data-icon="oi:account-logout" aria-hidden="true"></span> Logout
             </NavLink>
         </div>
     </nav>
@@ -40,5 +72,11 @@
     private void ToggleNavMenu()
     {
         collapseNavMenu = !collapseNavMenu;
+    }
+
+    private async Task BeginSignOut(MouseEventArgs args)
+    {
+        await SignOutManager.SetSignOutState();
+        Navigation.NavigateTo("authentication/logout");
     }
 }

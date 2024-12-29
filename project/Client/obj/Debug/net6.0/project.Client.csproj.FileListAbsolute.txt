@@ -1660,11 +1660,6 @@ C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\j7deh4vxa3-1g6dzeoluu.gz
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\7lpci8m3na-xxwcmr94me.gz
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\om97as662t-pf4yq2tlc6.gz
-C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\vzaunjuown-06vwtohhnq.gz
-C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\ykzlg2bbmp-cc63bhgqu5.gz
-C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\0g492jm0hl-a4xa1ag01z.gz
-C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\6nmqislp1v-u21kxz33bt.gz
-C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\9vhgc0c3qm-94nfx5q9x6.gz
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\staticwebassets.build.endpoints.json
@@ -1679,3 +1674,8 @@ C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\refint\project.Client.dll
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\project.Client.pdb
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\ref\project.Client.dll
+C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\vzaunjuown-aj1qcpfm5h.gz
+C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\ykzlg2bbmp-2yg5y7frxz.gz
+C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\0g492jm0hl-0e5ehinre8.gz
+C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\6nmqislp1v-ijhg7n8yxo.gz
+C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Client\obj\Debug\net6.0\compressed\9vhgc0c3qm-k1md5idcsz.gz

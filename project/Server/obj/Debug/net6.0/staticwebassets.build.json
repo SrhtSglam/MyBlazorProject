@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ia1KBzQ7UFHOQNhKT78UxziRd2DFi1WByCgmY62etDc=",
+  "Hash": "6HLeBsuajOi0jcuRvP5WOeo+h7OLF/XGDI2tp0+L3oo=",
   "Source": "project.Server",
   "BasePath": "_content/project.Server",
   "Mode": "Default",
@@ -1331,8 +1331,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "94nfx5q9x6",
-      "Integrity": "Nwjxn47dsuSqcHj6xM27lHzeh6oZmVX4+ik3NZKKiLs=",
+      "Fingerprint": "k1md5idcsz",
+      "Integrity": "KNK/PyCn9NGXdaFzViL9BQBtZoCpsHVzWmJHGQSJqvk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -2192,8 +2192,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "a4xa1ag01z",
-      "Integrity": "Ks95EfbkIoJQGvdx5DKaVVRYVYYDqzKdE9bmZLPMWts=",
+      "Fingerprint": "0e5ehinre8",
+      "Integrity": "yHuWQvbwfQYL/rXhp60GPx/4BMZqEAYPxEOHxCaWG6o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\project.Client.dll"
@@ -2213,8 +2213,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "u21kxz33bt",
-      "Integrity": "iqC4npDK593eZYlMPaBDjiC6z0x9cDCg8R9NHfi83oM=",
+      "Fingerprint": "ijhg7n8yxo",
+      "Integrity": "MiBOZypM2JLsr9HPeJVpnj+I5RjzpElgtZagk2ymtqo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\project.Client.pdb"
@@ -2234,8 +2234,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "06vwtohhnq",
-      "Integrity": "OK0AHvubDoLXApOOxEMgBFDaVVQfA7sledHmi7UcOPc=",
+      "Fingerprint": "aj1qcpfm5h",
+      "Integrity": "Rop0JiXiTrZJ2ZHruAfQD9lTZWaC+Qf/pQXw8lBYcGo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\project.Shared.dll"
@@ -2255,8 +2255,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "cc63bhgqu5",
-      "Integrity": "JG7J79Qdso6Be85yVL7fqoLw0dpWWF9IKKMFfKFSAM0=",
+      "Fingerprint": "2yg5y7frxz",
+      "Integrity": "9oxaBFfLHYLtRm0KUWPXp0Rudqj7W3sDtcVQCmvhTfU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\project.Shared.pdb"
@@ -5706,7 +5706,7 @@
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0efwzm8jpq-kcyunzym0h.gz"
     },
     {
-      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0g492jm0hl-a4xa1ag01z.gz",
+      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0g492jm0hl-0e5ehinre8.gz",
       "SourceId": "project.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\",
@@ -5720,11 +5720,11 @@
       "RelatedAsset": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\project.Client.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fk0eihe2rd",
-      "Integrity": "X5Cq7iZskE0wQ0pdJiD6Xf9QJRswf4G+uL8IbxIgP04=",
+      "Fingerprint": "66ef21tgyl",
+      "Integrity": "glSI7QxBKTfVK6zPIpeYjAJTYKlKDVRe6liXmCsI1D8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0g492jm0hl-a4xa1ag01z.gz"
+      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0g492jm0hl-0e5ehinre8.gz"
     },
     {
       "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\134qc77ion-ulryq6a298.gz",
@@ -6357,7 +6357,7 @@
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6hzm8cbzq9-fd1txmqryi.gz"
     },
     {
-      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6nmqislp1v-u21kxz33bt.gz",
+      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6nmqislp1v-ijhg7n8yxo.gz",
       "SourceId": "project.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\",
@@ -6371,11 +6371,11 @@
       "RelatedAsset": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\project.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y6pwpon5gh",
-      "Integrity": "ihCdFN094d4PDqybRVT3EB/BF+ocYCGTyCojoPvQl0M=",
+      "Fingerprint": "rxw7afns1r",
+      "Integrity": "f/i7TLdLm6R1uBI8nbVPhAdG0OAStaBudVm99t/QC6E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6nmqislp1v-u21kxz33bt.gz"
+      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6nmqislp1v-ijhg7n8yxo.gz"
     },
     {
       "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6pb3pgu9g6-6lpxex4slg.gz",
@@ -6714,7 +6714,7 @@
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9o08hx0bnj-cb187lrfmv.gz"
     },
     {
-      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9vhgc0c3qm-94nfx5q9x6.gz",
+      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9vhgc0c3qm-k1md5idcsz.gz",
       "SourceId": "project.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\",
@@ -6728,11 +6728,11 @@
       "RelatedAsset": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bmcb4scimh",
-      "Integrity": "XTcoCF5pKw3K6aFA0EtRbgjyXpymOsZj1NYir0ffKzI=",
+      "Fingerprint": "9elfxfhqbl",
+      "Integrity": "7/jlU+trs9udghg/3/w4lPEroXo14PXwJaGivo1hXm8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9vhgc0c3qm-94nfx5q9x6.gz"
+      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9vhgc0c3qm-k1md5idcsz.gz"
     },
     {
       "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9zg4548xg3-pxq1uz4azx.gz",
@@ -9507,7 +9507,7 @@
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vx0hwuhkjk-vpilnimp4x.gz"
     },
     {
-      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vzaunjuown-06vwtohhnq.gz",
+      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vzaunjuown-aj1qcpfm5h.gz",
       "SourceId": "project.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\",
@@ -9521,11 +9521,11 @@
       "RelatedAsset": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\project.Shared.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cav5aa74nl",
-      "Integrity": "pE+c7RwmcyopNvQ41xbGivF5sZNNtj3vnVFCDhn/2eY=",
+      "Fingerprint": "y1z90uu2tu",
+      "Integrity": "Sk5Ek9pFW3CjY3f4arlUq8UP/ruXLh0A7qXVPhG0j9s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vzaunjuown-06vwtohhnq.gz"
+      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vzaunjuown-aj1qcpfm5h.gz"
     },
     {
       "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\w1sh53ucht-yetoyv5zqo.gz",
@@ -9885,7 +9885,7 @@
       "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\yfs6o7slay-se2q2taevy.gz"
     },
     {
-      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\ykzlg2bbmp-cc63bhgqu5.gz",
+      "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\ykzlg2bbmp-2yg5y7frxz.gz",
       "SourceId": "project.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\",
@@ -9899,11 +9899,11 @@
       "RelatedAsset": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\project.Shared.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kgp5r7lind",
-      "Integrity": "3KjlzH18Rae4WdMo9p2Gf5Y5liXJMNCQQdXSENc2QPg=",
+      "Fingerprint": "y17exereke",
+      "Integrity": "NgT3x9PESnVmfES1HY/eONp+p6xpAXvGNZYcEXMP8qw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\ykzlg2bbmp-cc63bhgqu5.gz"
+      "OriginalItemSpec": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\ykzlg2bbmp-2yg5y7frxz.gz"
     },
     {
       "Identity": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\z5fozdojc9-juow5yohtp.gz",
@@ -12298,28 +12298,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nwjxn47dsuSqcHj6xM27lHzeh6oZmVX4+ik3NZKKiLs=\""
+          "Value": "\"KNK/PyCn9NGXdaFzViL9BQBtZoCpsHVzWmJHGQSJqvk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 14:15:07 GMT"
+          "Value": "Sun, 29 Dec 2024 15:56:38 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nwjxn47dsuSqcHj6xM27lHzeh6oZmVX4+ik3NZKKiLs="
+          "Value": "sha256-KNK/PyCn9NGXdaFzViL9BQBtZoCpsHVzWmJHGQSJqvk="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9vhgc0c3qm-94nfx5q9x6.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9vhgc0c3qm-k1md5idcsz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000112447993"
+          "Quality": "0.000112536574"
         }
       ],
       "ResponseHeaders": [
@@ -12337,15 +12337,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8892"
+          "Value": "8885"
         },
         {
           "Name": "ETag",
-          "Value": "\"XTcoCF5pKw3K6aFA0EtRbgjyXpymOsZj1NYir0ffKzI=\""
+          "Value": "\"7/jlU+trs9udghg/3/w4lPEroXo14PXwJaGivo1hXm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 14:08:41 GMT"
+          "Value": "Sun, 29 Dec 2024 15:49:02 GMT"
         },
         {
           "Name": "Vary",
@@ -12357,19 +12357,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Nwjxn47dsuSqcHj6xM27lHzeh6oZmVX4+ik3NZKKiLs=\""
+          "Value": "W/\"KNK/PyCn9NGXdaFzViL9BQBtZoCpsHVzWmJHGQSJqvk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nwjxn47dsuSqcHj6xM27lHzeh6oZmVX4+ik3NZKKiLs="
+          "Value": "sha256-KNK/PyCn9NGXdaFzViL9BQBtZoCpsHVzWmJHGQSJqvk="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9vhgc0c3qm-94nfx5q9x6.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\9vhgc0c3qm-k1md5idcsz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12386,7 +12386,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8892"
+          "Value": "8885"
         },
         {
           "Name": "Content-Type",
@@ -12394,11 +12394,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XTcoCF5pKw3K6aFA0EtRbgjyXpymOsZj1NYir0ffKzI=\""
+          "Value": "\"7/jlU+trs9udghg/3/w4lPEroXo14PXwJaGivo1hXm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 14:08:41 GMT"
+          "Value": "Sun, 29 Dec 2024 15:49:02 GMT"
         },
         {
           "Name": "Vary",
@@ -12408,7 +12408,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XTcoCF5pKw3K6aFA0EtRbgjyXpymOsZj1NYir0ffKzI="
+          "Value": "sha256-7/jlU+trs9udghg/3/w4lPEroXo14PXwJaGivo1hXm8="
         }
       ]
     },
@@ -17907,7 +17907,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50176"
+          "Value": "59904"
         },
         {
           "Name": "Content-Type",
@@ -17915,28 +17915,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ks95EfbkIoJQGvdx5DKaVVRYVYYDqzKdE9bmZLPMWts=\""
+          "Value": "\"yHuWQvbwfQYL/rXhp60GPx/4BMZqEAYPxEOHxCaWG6o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:24 GMT"
+          "Value": "Sun, 29 Dec 2024 15:49:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ks95EfbkIoJQGvdx5DKaVVRYVYYDqzKdE9bmZLPMWts="
+          "Value": "sha256-yHuWQvbwfQYL/rXhp60GPx/4BMZqEAYPxEOHxCaWG6o="
         }
       ]
     },
     {
       "Route": "_framework/project.Client.dll",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0g492jm0hl-a4xa1ag01z.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0g492jm0hl-0e5ehinre8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059812190"
+          "Quality": "0.000051733057"
         }
       ],
       "ResponseHeaders": [
@@ -17954,15 +17954,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16718"
+          "Value": "19329"
         },
         {
           "Name": "ETag",
-          "Value": "\"X5Cq7iZskE0wQ0pdJiD6Xf9QJRswf4G+uL8IbxIgP04=\""
+          "Value": "\"glSI7QxBKTfVK6zPIpeYjAJTYKlKDVRe6liXmCsI1D8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:24 GMT"
+          "Value": "Sun, 29 Dec 2024 15:49:01 GMT"
         },
         {
           "Name": "Vary",
@@ -17974,19 +17974,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ks95EfbkIoJQGvdx5DKaVVRYVYYDqzKdE9bmZLPMWts=\""
+          "Value": "W/\"yHuWQvbwfQYL/rXhp60GPx/4BMZqEAYPxEOHxCaWG6o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ks95EfbkIoJQGvdx5DKaVVRYVYYDqzKdE9bmZLPMWts="
+          "Value": "sha256-yHuWQvbwfQYL/rXhp60GPx/4BMZqEAYPxEOHxCaWG6o="
         }
       ]
     },
     {
       "Route": "_framework/project.Client.dll.gz",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0g492jm0hl-a4xa1ag01z.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\0g492jm0hl-0e5ehinre8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18003,7 +18003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16718"
+          "Value": "19329"
         },
         {
           "Name": "Content-Type",
@@ -18011,11 +18011,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X5Cq7iZskE0wQ0pdJiD6Xf9QJRswf4G+uL8IbxIgP04=\""
+          "Value": "\"glSI7QxBKTfVK6zPIpeYjAJTYKlKDVRe6liXmCsI1D8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:24 GMT"
+          "Value": "Sun, 29 Dec 2024 15:49:01 GMT"
         },
         {
           "Name": "Vary",
@@ -18025,7 +18025,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-X5Cq7iZskE0wQ0pdJiD6Xf9QJRswf4G+uL8IbxIgP04="
+          "Value": "sha256-glSI7QxBKTfVK6zPIpeYjAJTYKlKDVRe6liXmCsI1D8="
         }
       ]
     },
@@ -18044,7 +18044,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "48988"
+          "Value": "57380"
         },
         {
           "Name": "Content-Type",
@@ -18052,28 +18052,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iqC4npDK593eZYlMPaBDjiC6z0x9cDCg8R9NHfi83oM=\""
+          "Value": "\"MiBOZypM2JLsr9HPeJVpnj+I5RjzpElgtZagk2ymtqo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:24 GMT"
+          "Value": "Sun, 29 Dec 2024 15:49:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iqC4npDK593eZYlMPaBDjiC6z0x9cDCg8R9NHfi83oM="
+          "Value": "sha256-MiBOZypM2JLsr9HPeJVpnj+I5RjzpElgtZagk2ymtqo="
         }
       ]
     },
     {
       "Route": "_framework/project.Client.pdb",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6nmqislp1v-u21kxz33bt.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6nmqislp1v-ijhg7n8yxo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000025440114"
+          "Quality": "0.000021637528"
         }
       ],
       "ResponseHeaders": [
@@ -18091,15 +18091,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39307"
+          "Value": "46215"
         },
         {
           "Name": "ETag",
-          "Value": "\"ihCdFN094d4PDqybRVT3EB/BF+ocYCGTyCojoPvQl0M=\""
+          "Value": "\"f/i7TLdLm6R1uBI8nbVPhAdG0OAStaBudVm99t/QC6E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:24 GMT"
+          "Value": "Sun, 29 Dec 2024 15:49:01 GMT"
         },
         {
           "Name": "Vary",
@@ -18111,19 +18111,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iqC4npDK593eZYlMPaBDjiC6z0x9cDCg8R9NHfi83oM=\""
+          "Value": "W/\"MiBOZypM2JLsr9HPeJVpnj+I5RjzpElgtZagk2ymtqo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iqC4npDK593eZYlMPaBDjiC6z0x9cDCg8R9NHfi83oM="
+          "Value": "sha256-MiBOZypM2JLsr9HPeJVpnj+I5RjzpElgtZagk2ymtqo="
         }
       ]
     },
     {
       "Route": "_framework/project.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6nmqislp1v-u21kxz33bt.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\6nmqislp1v-ijhg7n8yxo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18140,7 +18140,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39307"
+          "Value": "46215"
         },
         {
           "Name": "Content-Type",
@@ -18148,11 +18148,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ihCdFN094d4PDqybRVT3EB/BF+ocYCGTyCojoPvQl0M=\""
+          "Value": "\"f/i7TLdLm6R1uBI8nbVPhAdG0OAStaBudVm99t/QC6E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:24 GMT"
+          "Value": "Sun, 29 Dec 2024 15:49:01 GMT"
         },
         {
           "Name": "Vary",
@@ -18162,7 +18162,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ihCdFN094d4PDqybRVT3EB/BF+ocYCGTyCojoPvQl0M="
+          "Value": "sha256-f/i7TLdLm6R1uBI8nbVPhAdG0OAStaBudVm99t/QC6E="
         }
       ]
     },
@@ -18189,28 +18189,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OK0AHvubDoLXApOOxEMgBFDaVVQfA7sledHmi7UcOPc=\""
+          "Value": "\"Rop0JiXiTrZJ2ZHruAfQD9lTZWaC+Qf/pQXw8lBYcGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:20 GMT"
+          "Value": "Fri, 27 Dec 2024 14:42:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OK0AHvubDoLXApOOxEMgBFDaVVQfA7sledHmi7UcOPc="
+          "Value": "sha256-Rop0JiXiTrZJ2ZHruAfQD9lTZWaC+Qf/pQXw8lBYcGo="
         }
       ]
     },
     {
       "Route": "_framework/project.Shared.dll",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vzaunjuown-06vwtohhnq.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vzaunjuown-aj1qcpfm5h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000313971743"
+          "Quality": "0.000314070352"
         }
       ],
       "ResponseHeaders": [
@@ -18228,15 +18228,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3184"
+          "Value": "3183"
         },
         {
           "Name": "ETag",
-          "Value": "\"pE+c7RwmcyopNvQ41xbGivF5sZNNtj3vnVFCDhn/2eY=\""
+          "Value": "\"Sk5Ek9pFW3CjY3f4arlUq8UP/ruXLh0A7qXVPhG0j9s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:20 GMT"
+          "Value": "Fri, 27 Dec 2024 14:42:23 GMT"
         },
         {
           "Name": "Vary",
@@ -18248,19 +18248,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OK0AHvubDoLXApOOxEMgBFDaVVQfA7sledHmi7UcOPc=\""
+          "Value": "W/\"Rop0JiXiTrZJ2ZHruAfQD9lTZWaC+Qf/pQXw8lBYcGo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OK0AHvubDoLXApOOxEMgBFDaVVQfA7sledHmi7UcOPc="
+          "Value": "sha256-Rop0JiXiTrZJ2ZHruAfQD9lTZWaC+Qf/pQXw8lBYcGo="
         }
       ]
     },
     {
       "Route": "_framework/project.Shared.dll.gz",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vzaunjuown-06vwtohhnq.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\vzaunjuown-aj1qcpfm5h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18277,7 +18277,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3184"
+          "Value": "3183"
         },
         {
           "Name": "Content-Type",
@@ -18285,11 +18285,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pE+c7RwmcyopNvQ41xbGivF5sZNNtj3vnVFCDhn/2eY=\""
+          "Value": "\"Sk5Ek9pFW3CjY3f4arlUq8UP/ruXLh0A7qXVPhG0j9s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:20 GMT"
+          "Value": "Fri, 27 Dec 2024 14:42:23 GMT"
         },
         {
           "Name": "Vary",
@@ -18299,7 +18299,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pE+c7RwmcyopNvQ41xbGivF5sZNNtj3vnVFCDhn/2eY="
+          "Value": "sha256-Sk5Ek9pFW3CjY3f4arlUq8UP/ruXLh0A7qXVPhG0j9s="
         }
       ]
     },
@@ -18326,28 +18326,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JG7J79Qdso6Be85yVL7fqoLw0dpWWF9IKKMFfKFSAM0=\""
+          "Value": "\"9oxaBFfLHYLtRm0KUWPXp0Rudqj7W3sDtcVQCmvhTfU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:20 GMT"
+          "Value": "Fri, 27 Dec 2024 14:42:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JG7J79Qdso6Be85yVL7fqoLw0dpWWF9IKKMFfKFSAM0="
+          "Value": "sha256-9oxaBFfLHYLtRm0KUWPXp0Rudqj7W3sDtcVQCmvhTfU="
         }
       ]
     },
     {
       "Route": "_framework/project.Shared.pdb",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\ykzlg2bbmp-cc63bhgqu5.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\ykzlg2bbmp-2yg5y7frxz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000146778218"
+          "Quality": "0.000146821318"
         }
       ],
       "ResponseHeaders": [
@@ -18365,15 +18365,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6812"
+          "Value": "6810"
         },
         {
           "Name": "ETag",
-          "Value": "\"3KjlzH18Rae4WdMo9p2Gf5Y5liXJMNCQQdXSENc2QPg=\""
+          "Value": "\"NgT3x9PESnVmfES1HY/eONp+p6xpAXvGNZYcEXMP8qw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:20 GMT"
+          "Value": "Fri, 27 Dec 2024 14:42:23 GMT"
         },
         {
           "Name": "Vary",
@@ -18385,19 +18385,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JG7J79Qdso6Be85yVL7fqoLw0dpWWF9IKKMFfKFSAM0=\""
+          "Value": "W/\"9oxaBFfLHYLtRm0KUWPXp0Rudqj7W3sDtcVQCmvhTfU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JG7J79Qdso6Be85yVL7fqoLw0dpWWF9IKKMFfKFSAM0="
+          "Value": "sha256-9oxaBFfLHYLtRm0KUWPXp0Rudqj7W3sDtcVQCmvhTfU="
         }
       ]
     },
     {
       "Route": "_framework/project.Shared.pdb.gz",
-      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\ykzlg2bbmp-cc63bhgqu5.gz",
+      "AssetFile": "C:\\Users\\serha\\Documents\\GitHub\\MyBlazorProject\\project\\Client\\obj\\Debug\\net6.0\\compressed\\ykzlg2bbmp-2yg5y7frxz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18414,7 +18414,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6812"
+          "Value": "6810"
         },
         {
           "Name": "Content-Type",
@@ -18422,11 +18422,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3KjlzH18Rae4WdMo9p2Gf5Y5liXJMNCQQdXSENc2QPg=\""
+          "Value": "\"NgT3x9PESnVmfES1HY/eONp+p6xpAXvGNZYcEXMP8qw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 13:54:20 GMT"
+          "Value": "Fri, 27 Dec 2024 14:42:23 GMT"
         },
         {
           "Name": "Vary",
@@ -18436,7 +18436,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3KjlzH18Rae4WdMo9p2Gf5Y5liXJMNCQQdXSENc2QPg="
+          "Value": "sha256-NgT3x9PESnVmfES1HY/eONp+p6xpAXvGNZYcEXMP8qw="
         }
       ]
     },

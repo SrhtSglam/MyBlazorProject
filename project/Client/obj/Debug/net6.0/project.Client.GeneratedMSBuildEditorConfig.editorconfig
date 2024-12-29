@@ -28,6 +28,22 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Pages/Admin/CategoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnlMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Pages/Admin/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Pages/Admin/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Pages/Admin/SubCategoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU3ViQ2F0ZWdvcnlMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Pages/Authentication.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,10 +58,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Pages/ProductList.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Shared/IMPORTED/ClientLayout.razor]
@@ -98,6 +110,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Shared/TopMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvcE1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Shared/_Bag.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9CYWcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/serha/Documents/GitHub/MyBlazorProject/project/Client/Shared/_Carousel.razor]
