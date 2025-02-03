@@ -718,3 +718,7 @@ C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Server\obj\Debug\net6.0\
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Server\obj\Debug\net6.0\project.Server.pdb
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Server\obj\Debug\net6.0\project.Server.genruntimeconfig.cache
 C:\Users\serha\Documents\GitHub\MyBlazorProject\project\Server\obj\Debug\net6.0\ref\project.Server.dll
+C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Server\bin\Debug\net6.0\project.Client.staticwebassets.endpoints.json
+C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Server\bin\Debug\net6.0\project.Server.staticwebassets.endpoints.json
+C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Server\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\stj067\Documents\GitHub\MyBlazorProject\project\Server\obj\Debug\net6.0\staticwebassets\msbuild.project.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

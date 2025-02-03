@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a8cbmkyks2</Fingerprint>
-      <Integrity>qthx46hGFtgvm6O8z0VINsMLsOqIO1vRyTrfdT5hb0k=</Integrity>
+      <Fingerprint>cl5wxb4ad3</Fingerprint>
+      <Integrity>UHHNWZKdQz8iTkA4nj0nypPxq3uSUZApU2qF2LY2k3c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\appbutton\appstore-btn.svg'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wtar7zeax4</Fingerprint>
-      <Integrity>bF0iWnmoYMyrZnFodFn11jhv4tGLep+6D57QI3Vlbpo=</Integrity>
+      <Fingerprint>6iuas52b36</Fingerprint>
+      <Integrity>Epc/ib4a/1qd7oo0oJs0amwXdBpPCz5XLChOta/CLaY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\appbutton\googleplay-btn.svg'))</OriginalItemSpec>
@@ -606,8 +606,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>06tjlfxo7m</Fingerprint>
-      <Integrity>aPuteMOJkwE/4plmKP84quSPJWWrM7vxHN8Dpz+8X9E=</Integrity>
+      <Fingerprint>l02gefh0js</Fingerprint>
+      <Integrity>yxdL3WFmzo+z9ab1IWKs0c8ua8TktqabNOLZ7Ly+fd0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\icons\english.svg'))</OriginalItemSpec>
@@ -732,8 +732,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yquh6tisw6</Fingerprint>
-      <Integrity>FtCO0VpmBLLLJtUyRmKQUw77PhJwoQ1EP9Z8jiOxUMk=</Integrity>
+      <Fingerprint>668r7c74l1</Fingerprint>
+      <Integrity>4hY+w15xyRKWODhP6ERIfF3oOPeUUt8FKbF61XMvCFE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo\freshcart-logo.svg'))</OriginalItemSpec>
@@ -750,8 +750,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>r6a8a8760t</Fingerprint>
-      <Integrity>kz/OPAkyRqJM02urzEhWOMrbukP4KaIZI7Rkp2WHZ10=</Integrity>
+      <Fingerprint>gs08pan6tw</Fingerprint>
+      <Integrity>AMd9F+pa62spNm8QguXEdGLLwIodjsA8gfFsYemZFsM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\payment\amazonpay.svg'))</OriginalItemSpec>
@@ -768,8 +768,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>smhkzgn3ax</Fingerprint>
-      <Integrity>vPbyJyFhWM7io6fWksu4F/V0ZvUuF0sUuQIfkL7sT/I=</Integrity>
+      <Fingerprint>7opft466uf</Fingerprint>
+      <Integrity>t9xmJLDn/BMJRUwSywjOY3yteDU9sJRECT6SaZbLDKY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\payment\american-express.svg'))</OriginalItemSpec>
@@ -786,8 +786,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>o7d4f3zqc6</Fingerprint>
-      <Integrity>5CZZp6Py8nt8XJtO0S9h55jbZDjcj/9cG9pxIaQeVXQ=</Integrity>
+      <Fingerprint>hbgzjs7yve</Fingerprint>
+      <Integrity>o+8Q03OOPBeJMhJEyTmtxDl1v9jgIoJ50aXCnq0tP6w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\payment\mastercard.svg'))</OriginalItemSpec>
@@ -804,8 +804,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nn7unj6vec</Fingerprint>
-      <Integrity>vbqgjgipdQimLa4KpSHysqi+BLQ3i0Nnxi5exXIJhSE=</Integrity>
+      <Fingerprint>2iao8pe25l</Fingerprint>
+      <Integrity>1khPpTSOK86pZEiJgVNU46jNTOrkBTIOLVayt7zsDcg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\payment\paypal.svg'))</OriginalItemSpec>
@@ -822,8 +822,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h1ksv78i62</Fingerprint>
-      <Integrity>dU/QhlPYOWIDE/eAjrE/JMwHgcNbotoY+dQedcXXFxQ=</Integrity>
+      <Fingerprint>bh44vqa288</Fingerprint>
+      <Integrity>UckSSiz2w5eWO6rExTiNKaXC/tacMtngoBpU62m0XEg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\payment\visa.svg'))</OriginalItemSpec>
@@ -1200,8 +1200,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8epdplops0</Fingerprint>
-      <Integrity>MFFc2qbHtVGgT7/JXNXp3t/AYJON2d9Doo+6tKm7dxY=</Integrity>
+      <Fingerprint>n0xenoeixm</Fingerprint>
+      <Integrity>p9WDHWYR+ywaoAVx+NNPeW509vF8kxUXn6hP3f5MYAU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stores-logo\stores-logo-1.svg'))</OriginalItemSpec>
@@ -1218,8 +1218,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yi6fv8wr8x</Fingerprint>
-      <Integrity>yi25vRD7RKEtFt0FrnJlOI4pX5GKFlQjx3QTGoEIG1s=</Integrity>
+      <Fingerprint>t8puta6nr3</Fingerprint>
+      <Integrity>s18PGExM1vSBmDRIA4vkHGhNVzj1VP0q/lBXq69+FFA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stores-logo\stores-logo-2.svg'))</OriginalItemSpec>
@@ -1236,8 +1236,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>l40lpb8a6c</Fingerprint>
-      <Integrity>G0cOQ0vJAIiIgny+Yg0qlZNWcI892NjNnZFj8B9avcc=</Integrity>
+      <Fingerprint>i4yrfrx0yx</Fingerprint>
+      <Integrity>fk/lw7lyr+6Ux/Biyf7c7wzt/EMHLHQOxiEah6loSP0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stores-logo\stores-logo-3.svg'))</OriginalItemSpec>
@@ -1254,8 +1254,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vjpt28q6a5</Fingerprint>
-      <Integrity>ZVd3wNTYRrCWnGu5yscTxznaypOxSALs5NFJExqkxt8=</Integrity>
+      <Fingerprint>3vpp7hpumh</Fingerprint>
+      <Integrity>0VXnj3UmizKiJQGkeqgct2B1GJUmxhc6BOs48N+3eA0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stores-logo\stores-logo-4.svg'))</OriginalItemSpec>
@@ -1272,8 +1272,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fi55e4pn5o</Fingerprint>
-      <Integrity>J1maVpNMZrwo5w1RVAeh7ZZ93EM/9FE1GQ1sd9VYNwc=</Integrity>
+      <Fingerprint>3y13exx1fh</Fingerprint>
+      <Integrity>ZZGlktemq22F0y8UCCb8IqzVj24a6mInLBaE2Wloafc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stores-logo\stores-logo-6.svg'))</OriginalItemSpec>
@@ -1290,8 +1290,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hfl861x2pf</Fingerprint>
-      <Integrity>fRitfFU/2yFQBMz37sckuDVT99Ij5lGLuCTaASSDMaw=</Integrity>
+      <Fingerprint>z0iny2wgqz</Fingerprint>
+      <Integrity>/ZpWTcr42dbt5YEblgVUh51xkTko9DlvCL1oDFmJeM8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stores-logo\stores-logo-7.svg'))</OriginalItemSpec>
@@ -1308,8 +1308,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>28xcwgfiyk</Fingerprint>
-      <Integrity>zvzT/6CacfDE31/GR6wCiFuUDSIsyb3aMOd9Nr8YSRQ=</Integrity>
+      <Fingerprint>kh2py0377l</Fingerprint>
+      <Integrity>2CrV0bRy38s/YpL+BcMWG07mUaYcs2sQ/q67RwkRrac=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stores-logo\stores-logo-8.svg'))</OriginalItemSpec>

@@ -47,6 +47,12 @@ else
                             alt="Dairy, Bread & Eggs">
                         <div class="card-body">
                             <p class="card-text">@product[i].Name</p>
+                            <AuthorizeView>
+                                <Authorized>
+                                    <button type="button" class="btn btn-outline-success">Add</button>
+                                </Authorized>
+                            </AuthorizeView>
+                            <button type="button" class="btn btn-outline-primary">Detail</button>
                         </div>
                     </div>
                 </div>
